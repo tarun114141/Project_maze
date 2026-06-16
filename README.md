@@ -5,7 +5,8 @@ Built as a side experiment to explore OpenGL rendering and simple animations whi
 
 ---
 
-
+## Demo
+In the main folder there is a file maze.mp4 
 
 ---
 
