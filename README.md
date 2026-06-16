@@ -5,10 +5,7 @@ Built as a side experiment to explore OpenGL rendering and simple animations whi
 
 ---
 
-## Demo
-> Generate a maze, watch it being built wall by wall, then hit Solve to see BFS find its way through.
 
-![demo](demo.gif)
 
 ---
 
